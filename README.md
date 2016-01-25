@@ -3,3 +3,5 @@
 사이트는 다음 경로에 있습니다.
 
 [http://jpub-gh.github.io/first-pr/](http://jpub-gh.github.io/first-pr/)
+
+git fetch upstream 은 잘 되나 테스트 함.
